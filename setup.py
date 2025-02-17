@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="appengine-python-standard-tbafork",
-    version="1.1.5dev1",
+    version="1.1.9dev1",
     author="Google LLC",
     description="Google App Engine services SDK for Python 3",
     long_description=long_description,
